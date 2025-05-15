@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/research-group-website/static/js/main.2e020958.js",
+    "main.js": "/research-group-website/static/js/main.0d102c79.js",
     "index.html": "/research-group-website/index.html",
-    "main.2e020958.js.map": "/research-group-website/static/js/main.2e020958.js.map"
+    "main.0d102c79.js.map": "/research-group-website/static/js/main.0d102c79.js.map"
   },
   "entrypoints": [
-    "static/js/main.2e020958.js"
+    "static/js/main.0d102c79.js"
   ]
 }
