@@ -1,12 +1,10 @@
+import React from 'react';
+
 function Home() {
   return (
-    <div style={{ padding: '2rem', textAlign: 'center' }}>
-      <h1 style={{ fontSize: '3rem', color: '#1e40af' }}>
-        Nhóm Nghiên cứu của Anh Đẹp Trai
-      </h1>
-      <p style={{ fontSize: '1.25rem', color: '#4b5563' }}>
-        Chào mừng bạn đến với website của nhóm nghiên cứu!
-      </p>
+    <div>
+      <h1>Nhóm nghiên cứu của chúng tôi</h1>
+      <p>Chào mừng đến với website của nhóm nghiên cứu. Tại đây, chúng tôi chia sẻ thông tin về các thành viên và dự án đang thực hiện.</p>
     </div>
   );
 }
